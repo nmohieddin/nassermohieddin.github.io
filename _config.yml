@@ -1,7 +1,5 @@
 theme: jekyll-theme-midnight
-
 title: "Welcome to the Nasser’s homepage!”
-
 I found the data set that represents a day in the life of a taxi driver in NYC very interesting. 
 Data collected shows routes driven, time of the day, and whether the cab was full or empty. 
 You are able to load a different driver each time. 
