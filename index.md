@@ -1,5 +1,7 @@
 [link to Dataset - NYC Taxis](http://chriswhong.github.io/nyctaxi/)
 
+[link to Book - A Course in Machine Learning](http://ciml.info/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nmohieddin/nassermohieddin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
