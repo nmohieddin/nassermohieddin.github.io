@@ -1,4 +1,8 @@
+I found the data set that represents a day in the life of a taxi driver in NYC very interesting. Data collected shows routes driven, time of the day, and whether the cab was full or empty. You are able to load a different driver each time. This information would be very useful in identifying most commonly driven routes, addressing traffic issues, and proposing improvements or expansions to the public transportation system. After watching a few drivers, I was able to see that most trips happen in Manhattan, which can be an indication that having a more robust public transportation system may reduce the need for cabs, and ease the traffic congestion in the city. This can be an example of how big data can be used to improve the quality of life.
+
 [link to Dataset - NYC Taxis](http://chriswhong.github.io/nyctaxi/)
+
+“A Course in Machine Learning” is a great book that introduces the main aspects of Machine Learning. The book discusses different decision making models and touches on real lids examples. I am interested in this book because I want to learn more about machine learning and its application in artificial intelligence, which became a game changer in the modern world and will continue to take a bigger role in our daily lives. 
 
 [link to Book - A Course in Machine Learning](http://ciml.info/)
 
